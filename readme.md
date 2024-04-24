@@ -1,0 +1,1 @@
+A quick deployment of development environment using Terraform with Azure provider and a option to compute locally on VSC through SSH to the linux VM server containing docker installation. We have a public IP address and a subnet within a virtual network connected to the virtual machine via network interface resource.
